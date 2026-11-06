@@ -4,4 +4,4 @@
 </div>
 
 <h3>My Expriences:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,git,github&theme=light&perline=2" alt="langueges">
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,git,github&theme=light" alt="langueges">
